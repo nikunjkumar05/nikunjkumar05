@@ -42,6 +42,4 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code)
 
-### 📊 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nikunjkumar05&layout=compact&theme=radical)
