@@ -3,12 +3,13 @@
 💻 Open Source Contributor  
 🚀 Competitive Programmer  
 
-## 🔥 Contribution Streak
+## 📊 Stats
+![Nikunj's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikunjkumar05&commits_year=2026&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nikunjkumar05&theme=tokyonight)
+## 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikunjkumar05&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 ## 📈 Contribution Graph
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikunjkumar05&theme=tokyo-night)
 
 ## 🛠 Tech Stack
