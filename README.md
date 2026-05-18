@@ -1,12 +1,12 @@
 # Hi there, I'm Nikunj Kumar 👋
 I am an assiduous 3rd B.Tech student and developer. I have a strong avidity for building efficient applications, solving complex algorithmic challenges, and actively contributing to the open-source ecosystem.
 
-- Open Source: Actively contributing to projects and focusing on programs like GSoC, Summer of Bitcoin, and C4GT.
-
-- Problem Solving: Consistently leveling up my competitive programming skills on platforms like LeetCode , Codeforces and CodeChef.
-
-- Development: Working on embedded systems, adaptive UI layouts, and database management architectures.
-
+**🌱 What I'm currently up to:**
+*   **Open Source:** Actively contributing to projects and focusing on programs like GSoC, Summer of Bitcoin, and C4GT.
+  
+*   **Problem Solving:** Consistently leveling up my competitive programming skills on platforms like LeetCode and Codeforces.
+  
+*   **Development:** Working on embedded systems, adaptive UI layouts, and database management architectures.
 💻 Open Source Contributor  
 🚀 Competitive Programmer  
 
@@ -17,8 +17,10 @@ LinkedIn: https://www.linkedin.com/in/nikunj-kumar05
 
 Email: kumarnikunj1207@gmail.com
 
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=nikunjkumar05&theme=tokyonight)](https://github.com/FajarKim/github-readme-profile)
+
 ## 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=nikunjkumar05&theme=tokyonight-duo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=nikunjkumar05&theme=tokyonight)](https://git.io/streak-stats)
 
 ## 📈 Contribution Graph
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nikunjkumar05&theme=tokyo-night)
